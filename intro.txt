@@ -1,0 +1,4 @@
+TEXT REPORT GENERATION AND DISEASE CLASSIFICATION USING CHEST X-RAYS
+
+
+This is a project for our final semester thesis utilising multi-modal data in the form of images and text  
